@@ -10,3 +10,6 @@ Sample website with plenty of files for demos and for other users to add/contrib
 Hello world second line
 
 Copy right notice added
+
+
+please fork this repository and issue pull requests 
